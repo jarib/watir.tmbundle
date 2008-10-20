@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>checkbox(:${1:how}, ${2:"${3:what}"}${4:, "${5:value}"})${6:.${7:set}}$0</string>
+	<key>name</key>
+	<string>checkbox</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>cb</string>
+	<key>uuid</key>
+	<string>89CECE65-933C-4A1C-B5EC-49CBCCB09701</string>
+</dict>
+</plist>

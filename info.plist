@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Watir</string>
+	<key>ordering</key>
+	<array>
+		<string>A9A64107-83E0-43F0-8A23-1C985D1EE976</string>
+		<string>144BC916-6C62-4132-93EF-8BB766F35755</string>
+		<string>CB8276D1-EE0E-415E-8437-CA6F82E39112</string>
+		<string>7748C983-CDAA-42F8-B5F3-0953B19BFA50</string>
+		<string>89CECE65-933C-4A1C-B5EC-49CBCCB09701</string>
+		<string>B3A8D4DA-DD4A-490C-84D5-3368EC9526BD</string>
+		<string>58A29924-D18A-47A3-9917-F8CBE5FF88AB</string>
+	</array>
+	<key>uuid</key>
+	<string>248C056A-43AD-43E7-911A-9BD1A4535C3C</string>
+</dict>
+</plist>

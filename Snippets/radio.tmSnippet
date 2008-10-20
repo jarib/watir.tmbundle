@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>radio(:${1:how}, ${2:"${3:what}"}${4:, "${5:value}"})${6:.${7:set}}$0</string>
+	<key>name</key>
+	<string>radio</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>radio</string>
+	<key>uuid</key>
+	<string>CB8276D1-EE0E-415E-8437-CA6F82E39112</string>
+</dict>
+</plist>
